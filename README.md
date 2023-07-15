@@ -1,0 +1,2 @@
+# AirQualityIndexPrediction
+machine learning project
